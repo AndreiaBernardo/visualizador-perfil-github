@@ -33,3 +33,5 @@ elements.inputSearch.addEventListener('keypress', (event) => {
     handleSearch();
   }
 });
+
+//vamos refatorar esses codigo do index.js usando modulos do es6 de forma que as responsabilidades sejam dividas
